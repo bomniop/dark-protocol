@@ -1,0 +1,12 @@
+{
+  "name": "dark-protocol",
+  "version": "1.0.0",
+  "description": "Privacy-focused DeFi protocol with zero-knowledge proofs",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "bomniop",
+  "license": "MIT"
+}
